@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Frontend Web Developing.
 - 📫 How to reach me :
 <br /> <br /> [<img height="50" width="50" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG7.png"/>]([https://www.linkedin.com/in/ajayd1712/])
-[<img height="50" width="50" src="https://clipartcraft.com/images/instagram-logo-transparent-background-2.png"/>]([https://www.instagram.com/ajay_official_17/])
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>]([https://www.instagram.com/ajay_official_17/])
 
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/sass.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
