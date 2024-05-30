@@ -11,6 +11,7 @@ About Me:
 
 ### IDE and Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://miro.medium.com/v2/resize:fit:333/1*1W0-bbmt4iiEpp_pPrS0VQ.png"/>
+<img height="50" width="50" src="https://d1yei2z3i6k35z.cloudfront.net/161/62e117a8612af_Udemy_Logo.png"/> <img height="50" width="50" src="https://www.sublimehq.com/images/sublime_text.png"/>
 
 ### Others
 <img height="30" src="https://img.shields.io/badge/Macbook-Pro_M1-ED1C24?style=for-the-badge&logo=apple&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
