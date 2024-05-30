@@ -3,7 +3,7 @@ About Me:
 <br />   I'm a passionate Frontend Web Developer with a strong background in bioinformatics, currently in the final year of my M.Sc. Bioinformatics. I enjoy building interactive, responsive, and user-friendly web applications.                                           
 - 🌱 I’m currently learning Frontend Web Developing.
 - 📫 How to reach me :
-<br /> <br /> [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](https://www.instagram.com/ajay_official_17/)
+<br /> <br /> [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](https://mail.google.com/mail/u/0/#inbox)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/ajayd1712/)
 
 ### I code in
