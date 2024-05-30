@@ -1,2 +1,4 @@
 Hi My name is Ajay
 I'm a bioinformatics student.
+
+I'm Ajay. I'm interested in information technology.
