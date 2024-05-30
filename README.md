@@ -1,6 +1,6 @@
 ## Hi there 👋 It's me Ajay
 About Me:
-<br />   I'm a passionate Frontend Web Developer with a strong background in bioinformatics, currently in the final year of my M.Sc. Bioinformatics. I enjoy building interactive, responsive, and user-friendly web applications.                                           
+<br />  </t> I'm a passionate Frontend Web Developer with a strong background in bioinformatics, currently in the final year of my M.Sc. Bioinformatics. I enjoy building interactive, responsive, and user-friendly web applications.                                           
 - 🌱 I’m currently learning Frontend Web Developing.
 - 👯 I’m looking to collaborate on Backend Developing
 - 📫 How to reach me :
